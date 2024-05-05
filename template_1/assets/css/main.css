@@ -16,6 +16,12 @@ a, p, .btn{
     font-size:15px;
 }
 
+ul{
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+
 .btn{
     padding:1rem;
 }
@@ -31,6 +37,15 @@ em{
 
 .title, .sub_title, strong, b{
     font-weight:300;
+}
+
+.title_header{
+    opacity:0.7;
+    margin:2vh auto;
+}
+
+.title_header b{
+    font-weight:400;
 }
 
 .logo{
